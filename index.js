@@ -1,10 +1,11 @@
 // See https://github.com/typicode/json-server#module
 const jsonServer = require("json-server");
+const path = require('path');
 
 const app = jsonServer.create();
 const auth = require("json-server-auth");
 
-const router = jsonServer.router("./tmp/db.json");
+const router = jsonServer.router(path.join(process.cwd(), 'tmp/db.json'));
 app.db = router.db;
 const rules = auth.rewriter({
   // Permission rules

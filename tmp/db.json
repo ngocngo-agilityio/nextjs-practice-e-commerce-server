@@ -90,7 +90,28 @@
       "name": "Plain White Shirt",
       "price": 69,
       "discount": 24,
-      "sizeIds": [1,2,3,4],
+      "sizeIds": [
+    {
+      "id": 1,
+      "size": "Small",
+      "symbol": "S"
+    },
+    {
+      "id": 2,
+      "size": "Medium",
+      "symbol": "M"
+    },
+    {
+      "id": 3,
+      "size": "Large",
+      "symbol": "L"
+    },
+    {
+      "id": 4,
+      "size": "Extra Large",
+      "symbol": "XL"
+    }
+  ],
       "rating": 4.3,
       "voteNumber": 15,
       "description": "A key objective is engaging digital marketing customers and allowing them to interact with the brand through servicing and delivery of digital media. Information is easy to access at a fast rate through the use of digital communications. \nUsers with access to the Internet can use many digital mediums, such as Facebook, YouTube, Forums, and Email etc. Through Digital communications it creates a Multi-communication channel where information can be quickly exchanged around the world by anyone without any regard to whom they are.[28] Social segregation plays no part through social mediums due to lack of face to face communication and information being wide spread instead to a selective audience. ",
@@ -105,7 +126,28 @@
       "name": "Black Polo Shirt",
       "price": 49,
       "discount": 24,
-      "sizeIds": [1,2,3,4],
+      "sizeIds": [
+    {
+      "id": 1,
+      "size": "Small",
+      "symbol": "S"
+    },
+    {
+      "id": 2,
+      "size": "Medium",
+      "symbol": "M"
+    },
+    {
+      "id": 3,
+      "size": "Large",
+      "symbol": "L"
+    },
+    {
+      "id": 4,
+      "size": "Extra Large",
+      "symbol": "XL"
+    }
+  ],
       "rating": 4.3,
       "voteNumber": 15,
       "description": "A key objective is engaging digital marketing customers and allowing them to interact with the brand through servicing and delivery of digital media. Information is easy to access at a fast rate through the use of digital communications. \nUsers with access to the Internet can use many digital mediums, such as Facebook, YouTube, Forums, and Email etc. Through Digital communications it creates a Multi-communication channel where information can be quickly exchanged around the world by anyone without any regard to whom they are.[28] Social segregation plays no part through social mediums due to lack of face to face communication and information being wide spread instead to a selective audience. ",
@@ -120,7 +162,28 @@
       "name": "Plain White Shirt",
       "price": 29,
       "discount": 24,
-      "sizeIds": [1,2,3,4],
+      "sizeIds": [
+    {
+      "id": 1,
+      "size": "Small",
+      "symbol": "S"
+    },
+    {
+      "id": 2,
+      "size": "Medium",
+      "symbol": "M"
+    },
+    {
+      "id": 3,
+      "size": "Large",
+      "symbol": "L"
+    },
+    {
+      "id": 4,
+      "size": "Extra Large",
+      "symbol": "XL"
+    }
+  ],
       "rating": 4.3,
       "voteNumber": 15,
       "description": "A key objective is engaging digital marketing customers and allowing them to interact with the brand through servicing and delivery of digital media. Information is easy to access at a fast rate through the use of digital communications. \nUsers with access to the Internet can use many digital mediums, such as Facebook, YouTube, Forums, and Email etc. Through Digital communications it creates a Multi-communication channel where information can be quickly exchanged around the world by anyone without any regard to whom they are.[28] Social segregation plays no part through social mediums due to lack of face to face communication and information being wide spread instead to a selective audience. ",
@@ -135,7 +198,28 @@
       "name": "Blue Plain Shirt",
       "price": 49,
       "discount": 24,
-      "sizeIds": [1,2,3,4],
+      "sizeIds":[
+    {
+      "id": 1,
+      "size": "Small",
+      "symbol": "S"
+    },
+    {
+      "id": 2,
+      "size": "Medium",
+      "symbol": "M"
+    },
+    {
+      "id": 3,
+      "size": "Large",
+      "symbol": "L"
+    },
+    {
+      "id": 4,
+      "size": "Extra Large",
+      "symbol": "XL"
+    }
+  ],
       "rating": 4.3,
       "voteNumber": 15,
       "description": "A key objective is engaging digital marketing customers and allowing them to interact with the brand through servicing and delivery of digital media. Information is easy to access at a fast rate through the use of digital communications. \nUsers with access to the Internet can use many digital mediums, such as Facebook, YouTube, Forums, and Email etc. Through Digital communications it creates a Multi-communication channel where information can be quickly exchanged around the world by anyone without any regard to whom they are.[28] Social segregation plays no part through social mediums due to lack of face to face communication and information being wide spread instead to a selective audience. ",
@@ -150,7 +234,28 @@
       "name": "Denim Jacket",
       "price": 69,
       "discount": 24,
-      "sizeIds": [1,2,3,4],
+      "sizeIds":[
+    {
+      "id": 1,
+      "size": "Small",
+      "symbol": "S"
+    },
+    {
+      "id": 2,
+      "size": "Medium",
+      "symbol": "M"
+    },
+    {
+      "id": 3,
+      "size": "Large",
+      "symbol": "L"
+    },
+    {
+      "id": 4,
+      "size": "Extra Large",
+      "symbol": "XL"
+    }
+  ],
       "rating": 4.3,
       "voteNumber": 15,
       "description": "A key objective is engaging digital marketing customers and allowing them to interact with the brand through servicing and delivery of digital media. Information is easy to access at a fast rate through the use of digital communications. \nUsers with access to the Internet can use many digital mediums, such as Facebook, YouTube, Forums, and Email etc. Through Digital communications it creates a Multi-communication channel where information can be quickly exchanged around the world by anyone without any regard to whom they are.[28] Social segregation plays no part through social mediums due to lack of face to face communication and information being wide spread instead to a selective audience. ",
@@ -169,7 +274,28 @@
       "rating": 4.3,
       "voteNumber": 15,
       "description": "A key objective is engaging digital marketing customers and allowing them to interact with the brand through servicing and delivery of digital media. Information is easy to access at a fast rate through the use of digital communications. \nUsers with access to the Internet can use many digital mediums, such as Facebook, YouTube, Forums, and Email etc. Through Digital communications it creates a Multi-communication channel where information can be quickly exchanged around the world by anyone without any regard to whom they are.[28] Social segregation plays no part through social mediums due to lack of face to face communication and information being wide spread instead to a selective audience. ",
-      "categoryIds": [2,3,4],
+      "categoryIds": [
+    {
+      "id": 1,
+      "size": "Small",
+      "symbol": "S"
+    },
+    {
+      "id": 2,
+      "size": "Medium",
+      "symbol": "M"
+    },
+    {
+      "id": 3,
+      "size": "Large",
+      "symbol": "L"
+    },
+    {
+      "id": 4,
+      "size": "Extra Large",
+      "symbol": "XL"
+    }
+  ],
       "tagIds": [1,2,3],
       "image":  "https://firebasestorage.googleapis.com/v0/b/ecommerce-fashion-16e2e.appspot.com/o/blue-sweatshirt.webp?alt=media",
       "createdAt": "2023-11-01T01:02:25.950Z",
@@ -180,7 +306,28 @@
       "name": "Outcast T Shirt",
       "price": 19,
       "discount": 24,
-      "sizeIds": [1,2,3,4],
+      "sizeIds": [
+    {
+      "id": 1,
+      "size": "Small",
+      "symbol": "S"
+    },
+    {
+      "id": 2,
+      "size": "Medium",
+      "symbol": "M"
+    },
+    {
+      "id": 3,
+      "size": "Large",
+      "symbol": "L"
+    },
+    {
+      "id": 4,
+      "size": "Extra Large",
+      "symbol": "XL"
+    }
+  ],
       "rating": 4.3,
       "voteNumber": 15,
       "description": "A key objective is engaging digital marketing customers and allowing them to interact with the brand through servicing and delivery of digital media. Information is easy to access at a fast rate through the use of digital communications. \nUsers with access to the Internet can use many digital mediums, such as Facebook, YouTube, Forums, and Email etc. Through Digital communications it creates a Multi-communication channel where information can be quickly exchanged around the world by anyone without any regard to whom they are.[28] Social segregation plays no part through social mediums due to lack of face to face communication and information being wide spread instead to a selective audience. ",
@@ -195,7 +342,28 @@
       "name": "Polo Plain Shirt",
       "price": 29,
       "discount": 24,
-      "sizeIds": [1,2,3,4],
+      "sizeIds": [
+    {
+      "id": 1,
+      "size": "Small",
+      "symbol": "S"
+    },
+    {
+      "id": 2,
+      "size": "Medium",
+      "symbol": "M"
+    },
+    {
+      "id": 3,
+      "size": "Large",
+      "symbol": "L"
+    },
+    {
+      "id": 4,
+      "size": "Extra Large",
+      "symbol": "XL"
+    }
+  ],
       "rating": 4.3,
       "voteNumber": 15,
       "description": "A key objective is engaging digital marketing customers and allowing them to interact with the brand through servicing and delivery of digital media. Information is easy to access at a fast rate through the use of digital communications. \nUsers with access to the Internet can use many digital mediums, such as Facebook, YouTube, Forums, and Email etc. Through Digital communications it creates a Multi-communication channel where information can be quickly exchanged around the world by anyone without any regard to whom they are.[28] Social segregation plays no part through social mediums due to lack of face to face communication and information being wide spread instead to a selective audience. ",
@@ -210,7 +378,28 @@
       "name": "Dark Blue Shirt",
       "price": 89,
       "discount": 24,
-      "sizeIds": [1,2,3,4],
+      "sizeIds": [
+    {
+      "id": 1,
+      "size": "Small",
+      "symbol": "S"
+    },
+    {
+      "id": 2,
+      "size": "Medium",
+      "symbol": "M"
+    },
+    {
+      "id": 3,
+      "size": "Large",
+      "symbol": "L"
+    },
+    {
+      "id": 4,
+      "size": "Extra Large",
+      "symbol": "XL"
+    }
+  ],
       "rating": 4.3,
       "voteNumber": 15,
       "description": "A key objective is engaging digital marketing customers and allowing them to interact with the brand through servicing and delivery of digital media. Information is easy to access at a fast rate through the use of digital communications. \nUsers with access to the Internet can use many digital mediums, such as Facebook, YouTube, Forums, and Email etc. Through Digital communications it creates a Multi-communication channel where information can be quickly exchanged around the world by anyone without any regard to whom they are.[28] Social segregation plays no part through social mediums due to lack of face to face communication and information being wide spread instead to a selective audience. ",
@@ -225,7 +414,28 @@
       "name": "Gray Polo Shirt",
       "price": 49,
       "discount": 24,
-      "sizeIds": [1,2,3,4],
+      "sizeIds": [
+    {
+      "id": 1,
+      "size": "Small",
+      "symbol": "S"
+    },
+    {
+      "id": 2,
+      "size": "Medium",
+      "symbol": "M"
+    },
+    {
+      "id": 3,
+      "size": "Large",
+      "symbol": "L"
+    },
+    {
+      "id": 4,
+      "size": "Extra Large",
+      "symbol": "XL"
+    }
+  ],
       "rating": 4.3,
       "voteNumber": 15,
       "description": "A key objective is engaging digital marketing customers and allowing them to interact with the brand through servicing and delivery of digital media. Information is easy to access at a fast rate through the use of digital communications. \nUsers with access to the Internet can use many digital mediums, such as Facebook, YouTube, Forums, and Email etc. Through Digital communications it creates a Multi-communication channel where information can be quickly exchanged around the world by anyone without any regard to whom they are.[28] Social segregation plays no part through social mediums due to lack of face to face communication and information being wide spread instead to a selective audience. ",
@@ -240,7 +450,28 @@
       "name": "Red Shirt",
       "price": 69,
       "discount": 24,
-      "sizeIds": [1,2,3,4],
+      "sizeIds":[
+    {
+      "id": 1,
+      "size": "Small",
+      "symbol": "S"
+    },
+    {
+      "id": 2,
+      "size": "Medium",
+      "symbol": "M"
+    },
+    {
+      "id": 3,
+      "size": "Large",
+      "symbol": "L"
+    },
+    {
+      "id": 4,
+      "size": "Extra Large",
+      "symbol": "XL"
+    }
+  ],
       "rating": 4.3,
       "voteNumber": 15,
       "description": "A key objective is engaging digital marketing customers and allowing them to interact with the brand through servicing and delivery of digital media. Information is easy to access at a fast rate through the use of digital communications. \nUsers with access to the Internet can use many digital mediums, such as Facebook, YouTube, Forums, and Email etc. Through Digital communications it creates a Multi-communication channel where information can be quickly exchanged around the world by anyone without any regard to whom they are.[28] Social segregation plays no part through social mediums due to lack of face to face communication and information being wide spread instead to a selective audience. ",
@@ -255,7 +486,28 @@
       "name": "Polo White Shirt",
       "price": 29,
       "discount": 24,
-      "sizeIds": [1,2,3,4],
+      "sizeIds": [
+    {
+      "id": 1,
+      "size": "Small",
+      "symbol": "S"
+    },
+    {
+      "id": 2,
+      "size": "Medium",
+      "symbol": "M"
+    },
+    {
+      "id": 3,
+      "size": "Large",
+      "symbol": "L"
+    },
+    {
+      "id": 4,
+      "size": "Extra Large",
+      "symbol": "XL"
+    }
+  ],
       "rating": 4.3,
       "voteNumber": 15,
       "description": "A key objective is engaging digital marketing customers and allowing them to interact with the brand through servicing and delivery of digital media. Information is easy to access at a fast rate through the use of digital communications. \nUsers with access to the Internet can use many digital mediums, such as Facebook, YouTube, Forums, and Email etc. Through Digital communications it creates a Multi-communication channel where information can be quickly exchanged around the world by anyone without any regard to whom they are.[28] Social segregation plays no part through social mediums due to lack of face to face communication and information being wide spread instead to a selective audience. ",
@@ -270,7 +522,28 @@
       "name": "Pink Casual Shirt",
       "price": 39,
       "discount": 24,
-      "sizeIds": [1,2,3,4],
+      "sizeIds": [
+    {
+      "id": 1,
+      "size": "Small",
+      "symbol": "S"
+    },
+    {
+      "id": 2,
+      "size": "Medium",
+      "symbol": "M"
+    },
+    {
+      "id": 3,
+      "size": "Large",
+      "symbol": "L"
+    },
+    {
+      "id": 4,
+      "size": "Extra Large",
+      "symbol": "XL"
+    }
+  ],
       "rating": 4.3,
       "voteNumber": 15,
       "description": "A key objective is engaging digital marketing customers and allowing them to interact with the brand through servicing and delivery of digital media. Information is easy to access at a fast rate through the use of digital communications. \nUsers with access to the Internet can use many digital mediums, such as Facebook, YouTube, Forums, and Email etc. Through Digital communications it creates a Multi-communication channel where information can be quickly exchanged around the world by anyone without any regard to whom they are.[28] Social segregation plays no part through social mediums due to lack of face to face communication and information being wide spread instead to a selective audience. ",

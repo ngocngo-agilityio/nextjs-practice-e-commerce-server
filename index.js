@@ -5,7 +5,7 @@ const path = require('path');
 const app = jsonServer.create();
 const auth = require("json-server-auth");
 
-const router = jsonServer.router(path.join(__dirname, 'tmp/db.json'));
+const router = jsonServer.router(path.join('/tmp', 'db.json'));
 app.db = router.db;
 const rules = auth.rewriter({
   // Permission rules

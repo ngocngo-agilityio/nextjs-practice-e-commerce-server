@@ -5,7 +5,7 @@
       "src": "index.js",
       "use": "@now/node",
       "config": {
-        "command": "chmod +w tmp/db.json && echo success"
+        "command": "chmod 777 tmp/db.json"
       }
     }
   ],

@@ -1,19 +1,14 @@
 {
-  "version": 2,
-  "builds": [
-    {
-      "src": "index.js",
-      "use": "@now/node",
-      "config": {
-        "command": "chmod 777 /var/task/tmp/db.json"
-      }
+  "functions": {
+    "api/server.js": {
+      "memory": 1024,
+      "includeFiles": "db.json"
     }
-  ],
-  "routes": [
+  },
+  "rewrites": [
     {
-      "src": "/(.*)",
-      "dest": "index.js"
+      "source": "/(.*)",
+      "destination": "api/server.js"
     }
-  ],
-  "outputDirectory": "."
+  ]
 }

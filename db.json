@@ -48,14 +48,6 @@
       "id": 5
     },
     {
-      "productId": 1,
-      "name": "Plain White Shirt",
-      "image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-fashion-16e2e.appspot.com/o/plain-white-shirt-1.webp?alt=media",
-      "price": 69,
-      "quantity": 1,
-      "id": 6
-    },
-    {
       "productId": 6,
       "name": "Blue Sweatshirt",
       "image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-fashion-16e2e.appspot.com/o/blue-sweatshirt.webp?alt=media",

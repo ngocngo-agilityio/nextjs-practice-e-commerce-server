@@ -1,15 +1,20 @@
 // See https://github.com/typicode/json-server#module
-const jsonServer = require("json-server");
+const jsonServer = require('json-server');
+const fs = require('fs');
+const path = require('path');
 
 const server = jsonServer.create();
-const router = jsonServer.router("db.json");
-const middlewares = jsonServer.defaults();
+fs.copyFile(path.join(__dirname, '../db.json'), '/tmp/db.json', (err) => {
+  if (err) throw err;
+  const router = jsonServer.router('/tmp/db.json');
+  const middlewares = jsonServer.defaults();
 
-server.use(middlewares);
-server.use(router);
+  server.use(middlewares);
+  server.use(router);
 
-server.listen(8080, () => {
-  console.log("JSON Server is running");
+  server.listen(8080, () => {
+    console.log("JSON Server is running");
+  });
 });
 
 // Export the Server API

@@ -6,56 +6,7 @@
       "password": "$2a$10$NDnx1lq/h1/19O0Sl3sATuxSZbO2ZAV5OD59Li0z2/270Xg.oiMHq"
     }
   ],
-  "carts": [
-    {
-      "productId": 4,
-      "name": "Blue Plain Shirt",
-      "image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-fashion-16e2e.appspot.com/o/blue-plain-shirt.webp?alt=media",
-      "price": 49,
-      "quantity": 3,
-      "id": 2
-    },
-    {
-      "productId": 2,
-      "name": "Black Polo Shirt",
-      "image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-fashion-16e2e.appspot.com/o/black-polo-shirt.webp?alt=media",
-      "price": 49,
-      "quantity": 1,
-      "id": 3
-    },
-    {
-      "productId": 7,
-      "name": "Outcast T Shirt",
-      "image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-fashion-16e2e.appspot.com/o/outcast-t-shirt.webp?alt=media",
-      "price": 19,
-      "quantity": 1,
-      "id": 4
-    },
-    {
-      "productId": 5,
-      "name": "Denim Jacket",
-      "image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-fashion-16e2e.appspot.com/o/denim-jacket.webp?alt=media",
-      "price": 69,
-      "quantity": 1,
-      "id": 5
-    },
-    {
-      "productId": 6,
-      "name": "Blue Sweatshirt",
-      "image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-fashion-16e2e.appspot.com/o/blue-sweatshirt.webp?alt=media",
-      "price": 79,
-      "quantity": 2,
-      "id": 7
-    },
-    {
-      "productId": 12,
-      "name": "Polo White Shirt",
-      "image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-fashion-16e2e.appspot.com/o/polo-white-shirt.webp?alt=media",
-      "price": 29,
-      "quantity": 1,
-      "id": 8
-    }
-  ],
+  "carts": [],
   "categories": [
     {
       "createdAt": "2023-11-01T00:29:44.376Z",

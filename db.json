@@ -6,7 +6,13 @@
       "password": "$2a$10$NDnx1lq/h1/19O0Sl3sATuxSZbO2ZAV5OD59Li0z2/270Xg.oiMHq"
     }
   ],
-  "carts": [],
+  "carts": [
+    {
+      "id": 1,
+      "userId": 1,
+      "cartItems": []
+    }
+  ],
   "categories": [
     {
       "createdAt": "2023-11-01T00:29:44.376Z",

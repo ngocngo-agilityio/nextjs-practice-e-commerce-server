@@ -6,506 +6,129 @@
       "password": "$2a$10$NDnx1lq/h1/19O0Sl3sATuxSZbO2ZAV5OD59Li0z2/270Xg.oiMHq"
     }
   ],
-  "carts": [
-    {
-      "id": 1,
-      "userId": 1,
-      "cartItems": []
-    }
-  ],
   "categories": [
     {
       "createdAt": "2023-11-01T00:29:44.376Z",
-      "name": "Women",
+      "name": "Chair",
       "id": 1
     },
     {
       "createdAt": "2023-11-01T02:04:33.873Z",
-      "name": "Men",
+      "name": "Table",
       "id": 2
     },
     {
       "createdAt": "2023-10-31T08:12:32.896Z",
-      "name": "Polo",
+      "name": "Armchair",
       "id": 3
     },
     {
       "createdAt": "2023-10-31T08:12:32.896Z",
-      "name": "Jacket",
+      "name": "Bed",
       "id": 4
     },
     {
       "createdAt": "2023-10-31T08:12:32.896Z",
-      "name": "Casual",
+      "name": "Lamb",
       "id": 5
-    },
-    {
-      "createdAt": "2023-10-31T08:12:32.896Z",
-      "name": "Formal",
-      "id": 6
-    }
-  ],
-  "tags": [
-    {
-      "createdAt": "2023-10-31T19:29:45.353Z",
-      "name": "Modern",
-      "id": 1
-    },
-    {
-      "createdAt": "2023-10-31T19:29:45.353Z",
-      "name": "Classic",
-      "id": 2
-    },
-    {
-      "createdAt": "2023-10-31T19:29:45.353Z",
-      "name": "Design",
-      "id": 3
-    },
-    {
-      "createdAt": "2023-10-31T19:29:45.353Z",
-      "name": "Cotton",
-      "id": 4
-    }
-  ],
-  "sizes": [
-    {
-      "id": 1,
-      "size": "Small",
-      "symbol": "S"
-    },
-    {
-      "id": 2,
-      "size": "Medium",
-      "symbol": "M"
-    },
-    {
-      "id": 3,
-      "size": "Large",
-      "symbol": "L"
-    },
-    {
-      "id": 4,
-      "size": "Extra Large",
-      "symbol": "XL"
     }
   ],
   "products": [
     {
-      "id": 2,
-      "name": "Black Polo Shirt",
-      "price": 49,
-      "discount": 24,
-      "sizes": [
-        {
-          "id": 1,
-          "size": "Small",
-          "symbol": "S"
-        },
-        {
-          "id": 2,
-          "size": "Medium",
-          "symbol": "M"
-        },
-        {
-          "id": 3,
-          "size": "Large",
-          "symbol": "L"
-        },
-        {
-          "id": 4,
-          "size": "Extra Large",
-          "symbol": "XL"
-        }
-      ],
-      "rating": 4.3,
+      "id": 1,
+      "name": "Black Simple Lamp",
+      "price": 12,
+      "rating": 4.5,
       "voteNumber": 15,
-      "description": "A key objective is engaging digital marketing customers and allowing them to interact with the brand through servicing and delivery of digital media. Information is easy to access at a fast rate through the use of digital communications. \nUsers with access to the Internet can use many digital mediums, such as Facebook, YouTube, Forums, and Email etc. Through Digital communications it creates a Multi-communication channel where information can be quickly exchanged around the world by anyone without any regard to whom they are.[28] Social segregation plays no part through social mediums due to lack of face to face communication and information being wide spread instead to a selective audience. ",
-      "categoryIds": [2, 3, 4],
-      "tagIds": [1, 2, 3],
-      "image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-fashion-16e2e.appspot.com/o/black-polo-shirt-q.webp?alt=media",
-      "createdAt": "2023-11-01T01:02:25.950Z",
-      "introduction": "A classic t-shirt never goes out of style. This is our most premium collection of shirt. This plain white shirt is made up of pure cotton and has a premium finish."
+      "reviewNumber": 50,
+      "description": "Minimal Stand is made of by natural wood. The design that is very simple and minimal. This is truly one of the best furnitures in any family for now. With 3 different colors, you can easily select the best match for your home. ",
+      "categoryId": 5,
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-fashion-16e2e.appspot.com/o/black-simple-lamp.png?alt=media",
+      "createdAt": "2023-11-01T01:02:25.950Z"
+    },
+    {
+      "id": 2,
+      "name": "Minimal Stand",
+      "price": 25,
+      "rating": 4.5,
+      "voteNumber": 15,
+      "reviewNumber": 50,
+      "description": "Minimal Stand is made of by natural wood. The design that is very simple and minimal. This is truly one of the best furnitures in any family for now. With 3 different colors, you can easily select the best match for your home. ",
+      "categoryId": 2,
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-fashion-16e2e.appspot.com/o/minimal-stand.png?alt=media",
+      "createdAt": "2023-11-01T01:02:25.950Z"
+    },
+    {
+      "id": 3,
+      "name": "Simple Desk",
+      "price": 25,
+      "rating": 4.5,
+      "voteNumber": 15,
+      "reviewNumber": 50,
+      "description": "Minimal Stand is made of by natural wood. The design that is very simple and minimal. This is truly one of the best furnitures in any family for now. With 3 different colors, you can easily select the best match for your home. ",
+      "categoryId": 2,
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-fashion-16e2e.appspot.com/o/simple-desk.png?alt=media",
+      "createdAt": "2023-11-01T01:02:25.950Z"
+    },
+    {
+      "id": 3,
+      "name": "Simple Chair",
+      "price": 25,
+      "rating": 4.5,
+      "voteNumber": 15,
+      "reviewNumber": 50,
+      "description": "Minimal Stand is made of by natural wood. The design that is very simple and minimal. This is truly one of the best furnitures in any family for now. With 3 different colors, you can easily select the best match for your home. ",
+      "categoryId": 1,
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-fashion-16e2e.appspot.com/o/simple-desk.png?alt=media",
+      "createdAt": "2023-11-01T01:02:25.950Z"
     },
     {
       "id": 4,
-      "name": "Blue Plain Shirt",
-      "price": 49,
-      "discount": 24,
-      "sizes": [
-        {
-          "id": 1,
-          "size": "Small",
-          "symbol": "S"
-        },
-        {
-          "id": 2,
-          "size": "Medium",
-          "symbol": "M"
-        },
-        {
-          "id": 3,
-          "size": "Large",
-          "symbol": "L"
-        },
-        {
-          "id": 4,
-          "size": "Extra Large",
-          "symbol": "XL"
-        }
-      ],
-      "rating": 4.3,
+      "name": "Simple Bed",
+      "price": 25,
+      "rating": 4.5,
       "voteNumber": 15,
-      "description": "A key objective is engaging digital marketing customers and allowing them to interact with the brand through servicing and delivery of digital media. Information is easy to access at a fast rate through the use of digital communications. \nUsers with access to the Internet can use many digital mediums, such as Facebook, YouTube, Forums, and Email etc. Through Digital communications it creates a Multi-communication channel where information can be quickly exchanged around the world by anyone without any regard to whom they are.[28] Social segregation plays no part through social mediums due to lack of face to face communication and information being wide spread instead to a selective audience. ",
-      "categoryIds": [2, 3, 4],
-      "tagIds": [1, 2, 3],
-      "image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-fashion-16e2e.appspot.com/o/blue-plain-shirt-q.webp?alt=media",
-      "createdAt": "2023-11-01T01:02:25.950Z",
-      "introduction": "A classic t-shirt never goes out of style. This is our most premium collection of shirt. This plain white shirt is made up of pure cotton and has a premium finish."
+      "reviewNumber": 50,
+      "description": "Minimal Stand is made of by natural wood. The design that is very simple and minimal. This is truly one of the best furnitures in any family for now. With 3 different colors, you can easily select the best match for your home. ",
+      "categoryId": 4,
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-fashion-16e2e.appspot.com/o/coffee-chair.png?alt=media",
+      "createdAt": "2023-11-01T01:02:25.950Z"
     },
     {
       "id": 5,
-      "name": "Denim Jacket",
-      "price": 69,
-      "discount": 24,
-      "sizes": [
-        {
-          "id": 1,
-          "size": "Small",
-          "symbol": "S"
-        },
-        {
-          "id": 2,
-          "size": "Medium",
-          "symbol": "M"
-        },
-        {
-          "id": 3,
-          "size": "Large",
-          "symbol": "L"
-        },
-        {
-          "id": 4,
-          "size": "Extra Large",
-          "symbol": "XL"
-        }
-      ],
-      "rating": 4.3,
+      "name": "Coffee Chair",
+      "price": 25,
+      "rating": 4.5,
       "voteNumber": 15,
-      "description": "A key objective is engaging digital marketing customers and allowing them to interact with the brand through servicing and delivery of digital media. Information is easy to access at a fast rate through the use of digital communications. \nUsers with access to the Internet can use many digital mediums, such as Facebook, YouTube, Forums, and Email etc. Through Digital communications it creates a Multi-communication channel where information can be quickly exchanged around the world by anyone without any regard to whom they are.[28] Social segregation plays no part through social mediums due to lack of face to face communication and information being wide spread instead to a selective audience. ",
-      "categoryIds": [2, 3, 4],
-      "tagIds": [1, 2, 3],
-      "image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-fashion-16e2e.appspot.com/o/denim-jacket-q.webp?alt=media",
-      "createdAt": "2023-11-01T01:02:25.950Z",
-      "introduction": "A classic t-shirt never goes out of style. This is our most premium collection of shirt. This plain white shirt is made up of pure cotton and has a premium finish."
+      "reviewNumber": 50,
+      "description": "Minimal Stand is made of by natural wood. The design that is very simple and minimal. This is truly one of the best furnitures in any family for now. With 3 different colors, you can easily select the best match for your home. ",
+      "categoryId": 1,
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-fashion-16e2e.appspot.com/o/coffee-chair.png?alt=media",
+      "createdAt": "2023-11-01T01:02:25.950Z"
     },
     {
       "id": 6,
-      "name": "Blue Sweatshirt",
-      "price": 79,
-      "discount": 24,
-      "sizes": [
-        {
-          "id": 1,
-          "size": "Small",
-          "symbol": "S"
-        },
-        {
-          "id": 2,
-          "size": "Medium",
-          "symbol": "M"
-        },
-        {
-          "id": 3,
-          "size": "Large",
-          "symbol": "L"
-        },
-        {
-          "id": 4,
-          "size": "Extra Large",
-          "symbol": "XL"
-        }
-      ],
-      "rating": 4.3,
+      "name": "Aim Chair",
+      "price": 25,
+      "rating": 4.5,
       "voteNumber": 15,
-      "description": "A key objective is engaging digital marketing customers and allowing them to interact with the brand through servicing and delivery of digital media. Information is easy to access at a fast rate through the use of digital communications. \nUsers with access to the Internet can use many digital mediums, such as Facebook, YouTube, Forums, and Email etc. Through Digital communications it creates a Multi-communication channel where information can be quickly exchanged around the world by anyone without any regard to whom they are.[28] Social segregation plays no part through social mediums due to lack of face to face communication and information being wide spread instead to a selective audience. ",
-      "categoryIds": [
-        {
-          "id": 1,
-          "size": "Small",
-          "symbol": "S"
-        },
-        {
-          "id": 2,
-          "size": "Medium",
-          "symbol": "M"
-        },
-        {
-          "id": 3,
-          "size": "Large",
-          "symbol": "L"
-        },
-        {
-          "id": 4,
-          "size": "Extra Large",
-          "symbol": "XL"
-        }
-      ],
-      "tagIds": [1, 2, 3],
-      "image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-fashion-16e2e.appspot.com/o/blue-sweatshirt-q.webp?alt=media",
-      "createdAt": "2023-11-01T01:02:25.950Z",
-      "introduction": "A classic t-shirt never goes out of style. This is our most premium collection of shirt. This plain white shirt is made up of pure cotton and has a premium finish."
+      "reviewNumber": 50,
+      "description": "Minimal Stand is made of by natural wood. The design that is very simple and minimal. This is truly one of the best furnitures in any family for now. With 3 different colors, you can easily select the best match for your home. ",
+      "categoryId": 3,
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-fashion-16e2e.appspot.com/o/coffee-chair.png?alt=media",
+      "createdAt": "2023-11-01T01:02:25.950Z"
     },
     {
       "id": 7,
-      "name": "Outcast T Shirt",
-      "price": 19,
-      "discount": 24,
-      "sizes": [
-        {
-          "id": 1,
-          "size": "Small",
-          "symbol": "S"
-        },
-        {
-          "id": 2,
-          "size": "Medium",
-          "symbol": "M"
-        },
-        {
-          "id": 3,
-          "size": "Large",
-          "symbol": "L"
-        },
-        {
-          "id": 4,
-          "size": "Extra Large",
-          "symbol": "XL"
-        }
-      ],
-      "rating": 4.3,
+      "name": "Bed",
+      "price": 25,
+      "rating": 4.5,
       "voteNumber": 15,
-      "description": "A key objective is engaging digital marketing customers and allowing them to interact with the brand through servicing and delivery of digital media. Information is easy to access at a fast rate through the use of digital communications. \nUsers with access to the Internet can use many digital mediums, such as Facebook, YouTube, Forums, and Email etc. Through Digital communications it creates a Multi-communication channel where information can be quickly exchanged around the world by anyone without any regard to whom they are.[28] Social segregation plays no part through social mediums due to lack of face to face communication and information being wide spread instead to a selective audience. ",
-      "categoryIds": [2, 3, 4],
-      "tagIds": [1, 2, 3],
-      "image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-fashion-16e2e.appspot.com/o/outcast-t-shirt-q.webp?alt=media",
-      "createdAt": "2023-11-01T01:02:25.950Z",
-      "introduction": "A classic t-shirt never goes out of style. This is our most premium collection of shirt. This plain white shirt is made up of pure cotton and has a premium finish."
-    },
-    {
-      "id": 8,
-      "name": "Polo Plain Shirt",
-      "price": 29,
-      "discount": 24,
-      "sizes": [
-        {
-          "id": 1,
-          "size": "Small",
-          "symbol": "S"
-        },
-        {
-          "id": 2,
-          "size": "Medium",
-          "symbol": "M"
-        },
-        {
-          "id": 3,
-          "size": "Large",
-          "symbol": "L"
-        },
-        {
-          "id": 4,
-          "size": "Extra Large",
-          "symbol": "XL"
-        }
-      ],
-      "rating": 4.3,
-      "voteNumber": 15,
-      "description": "A key objective is engaging digital marketing customers and allowing them to interact with the brand through servicing and delivery of digital media. Information is easy to access at a fast rate through the use of digital communications. \nUsers with access to the Internet can use many digital mediums, such as Facebook, YouTube, Forums, and Email etc. Through Digital communications it creates a Multi-communication channel where information can be quickly exchanged around the world by anyone without any regard to whom they are.[28] Social segregation plays no part through social mediums due to lack of face to face communication and information being wide spread instead to a selective audience. ",
-      "categoryIds": [2, 3, 4],
-      "tagIds": [1, 2, 3],
-      "image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-fashion-16e2e.appspot.com/o/plain-white-shirt-q.webp?alt=media",
-      "createdAt": "2023-11-01T01:02:25.950Z",
-      "introduction": "A classic t-shirt never goes out of style. This is our most premium collection of shirt. This plain white shirt is made up of pure cotton and has a premium finish."
-    },
-    {
-      "id": 9,
-      "name": "Dark Blue Shirt",
-      "price": 89,
-      "discount": 24,
-      "sizes": [
-        {
-          "id": 1,
-          "size": "Small",
-          "symbol": "S"
-        },
-        {
-          "id": 2,
-          "size": "Medium",
-          "symbol": "M"
-        },
-        {
-          "id": 3,
-          "size": "Large",
-          "symbol": "L"
-        },
-        {
-          "id": 4,
-          "size": "Extra Large",
-          "symbol": "XL"
-        }
-      ],
-      "rating": 4.3,
-      "voteNumber": 15,
-      "description": "A key objective is engaging digital marketing customers and allowing them to interact with the brand through servicing and delivery of digital media. Information is easy to access at a fast rate through the use of digital communications. \nUsers with access to the Internet can use many digital mediums, such as Facebook, YouTube, Forums, and Email etc. Through Digital communications it creates a Multi-communication channel where information can be quickly exchanged around the world by anyone without any regard to whom they are.[28] Social segregation plays no part through social mediums due to lack of face to face communication and information being wide spread instead to a selective audience. ",
-      "categoryIds": [2, 3, 4],
-      "tagIds": [1, 2, 3],
-      "image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-fashion-16e2e.appspot.com/o/dark-blue-shirt-q.webp?alt=media",
-      "createdAt": "2023-11-01T01:02:25.950Z",
-      "introduction": "A classic t-shirt never goes out of style. This is our most premium collection of shirt. This plain white shirt is made up of pure cotton and has a premium finish."
-    },
-    {
-      "id": 10,
-      "name": "Gray Polo Shirt",
-      "price": 49,
-      "discount": 24,
-      "sizes": [
-        {
-          "id": 1,
-          "size": "Small",
-          "symbol": "S"
-        },
-        {
-          "id": 2,
-          "size": "Medium",
-          "symbol": "M"
-        },
-        {
-          "id": 3,
-          "size": "Large",
-          "symbol": "L"
-        },
-        {
-          "id": 4,
-          "size": "Extra Large",
-          "symbol": "XL"
-        }
-      ],
-      "rating": 4.3,
-      "voteNumber": 15,
-      "description": "A key objective is engaging digital marketing customers and allowing them to interact with the brand through servicing and delivery of digital media. Information is easy to access at a fast rate through the use of digital communications. \nUsers with access to the Internet can use many digital mediums, such as Facebook, YouTube, Forums, and Email etc. Through Digital communications it creates a Multi-communication channel where information can be quickly exchanged around the world by anyone without any regard to whom they are.[28] Social segregation plays no part through social mediums due to lack of face to face communication and information being wide spread instead to a selective audience. ",
-      "categoryIds": [2, 3, 4],
-      "tagIds": [1, 2, 3],
-      "image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-fashion-16e2e.appspot.com/o/polo-plain-shirt-q.webp?alt=media",
-      "createdAt": "2023-11-01T01:02:25.950Z",
-      "introduction": "A classic t-shirt never goes out of style. This is our most premium collection of shirt. This plain white shirt is made up of pure cotton and has a premium finish."
-    },
-    {
-      "id": 11,
-      "name": "Red Shirt",
-      "price": 69,
-      "discount": 24,
-      "sizes": [
-        {
-          "id": 1,
-          "size": "Small",
-          "symbol": "S"
-        },
-        {
-          "id": 2,
-          "size": "Medium",
-          "symbol": "M"
-        },
-        {
-          "id": 3,
-          "size": "Large",
-          "symbol": "L"
-        },
-        {
-          "id": 4,
-          "size": "Extra Large",
-          "symbol": "XL"
-        }
-      ],
-      "rating": 4.3,
-      "voteNumber": 15,
-      "description": "A key objective is engaging digital marketing customers and allowing them to interact with the brand through servicing and delivery of digital media. Information is easy to access at a fast rate through the use of digital communications. \nUsers with access to the Internet can use many digital mediums, such as Facebook, YouTube, Forums, and Email etc. Through Digital communications it creates a Multi-communication channel where information can be quickly exchanged around the world by anyone without any regard to whom they are.[28] Social segregation plays no part through social mediums due to lack of face to face communication and information being wide spread instead to a selective audience. ",
-      "categoryIds": [2, 3, 4],
-      "tagIds": [1, 2, 3],
-      "image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-fashion-16e2e.appspot.com/o/red-shirt-q.webp?alt=media",
-      "createdAt": "2023-11-01T01:02:25.950Z",
-      "introduction": "A classic t-shirt never goes out of style. This is our most premium collection of shirt. This plain white shirt is made up of pure cotton and has a premium finish."
-    },
-    {
-      "id": 12,
-      "name": "Polo White Shirt",
-      "price": 29,
-      "discount": 24,
-      "sizes": [
-        {
-          "id": 1,
-          "size": "Small",
-          "symbol": "S"
-        },
-        {
-          "id": 2,
-          "size": "Medium",
-          "symbol": "M"
-        },
-        {
-          "id": 3,
-          "size": "Large",
-          "symbol": "L"
-        },
-        {
-          "id": 4,
-          "size": "Extra Large",
-          "symbol": "XL"
-        }
-      ],
-      "rating": 4.3,
-      "voteNumber": 15,
-      "description": "A key objective is engaging digital marketing customers and allowing them to interact with the brand through servicing and delivery of digital media. Information is easy to access at a fast rate through the use of digital communications. \nUsers with access to the Internet can use many digital mediums, such as Facebook, YouTube, Forums, and Email etc. Through Digital communications it creates a Multi-communication channel where information can be quickly exchanged around the world by anyone without any regard to whom they are.[28] Social segregation plays no part through social mediums due to lack of face to face communication and information being wide spread instead to a selective audience. ",
-      "categoryIds": [2, 3, 4],
-      "tagIds": [1, 2, 3],
-      "image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-fashion-16e2e.appspot.com/o/polo-white-shirt-q.webp?alt=media",
-      "createdAt": "2023-11-01T01:02:25.950Z",
-      "introduction": "A classic t-shirt never goes out of style. This is our most premium collection of shirt. This plain white shirt is made up of pure cotton and has a premium finish."
-    },
-    {
-      "id": 13,
-      "name": "Pink Casual Shirt",
-      "price": 39,
-      "discount": 24,
-      "sizes": [
-        {
-          "id": 1,
-          "size": "Small",
-          "symbol": "S"
-        },
-        {
-          "id": 2,
-          "size": "Medium",
-          "symbol": "M"
-        },
-        {
-          "id": 3,
-          "size": "Large",
-          "symbol": "L"
-        },
-        {
-          "id": 4,
-          "size": "Extra Large",
-          "symbol": "XL"
-        }
-      ],
-      "rating": 4.3,
-      "voteNumber": 15,
-      "description": "A key objective is engaging digital marketing customers and allowing them to interact with the brand through servicing and delivery of digital media. Information is easy to access at a fast rate through the use of digital communications. \nUsers with access to the Internet can use many digital mediums, such as Facebook, YouTube, Forums, and Email etc. Through Digital communications it creates a Multi-communication channel where information can be quickly exchanged around the world by anyone without any regard to whom they are.[28] Social segregation plays no part through social mediums due to lack of face to face communication and information being wide spread instead to a selective audience. ",
-      "categoryIds": [2, 3, 4],
-      "tagIds": [1, 2, 3],
-      "image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-fashion-16e2e.appspot.com/o/pink-casual-shirt-q.webp?alt=media",
-      "createdAt": "2023-11-01T01:02:25.950Z",
-      "introduction": "A classic t-shirt never goes out of style. This is our most premium collection of shirt. This plain white shirt is made up of pure cotton and has a premium finish."
+      "reviewNumber": 50,
+      "description": "Minimal Stand is made of by natural wood. The design that is very simple and minimal. This is truly one of the best furnitures in any family for now. With 3 different colors, you can easily select the best match for your home. ",
+      "categoryId": 4,
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-fashion-16e2e.appspot.com/o/coffee-chair.png?alt=media",
+      "createdAt": "2023-11-01T01:02:25.950Z"
     }
   ]
 }
